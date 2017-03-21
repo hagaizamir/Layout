@@ -11,11 +11,11 @@
         android:layout_height="wrap_content"
         android:id="@+id/btnCyn"
         android:background="#02eeff"
-        android:layout_below="@+id/btnBle"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="@dimen/mad"
         android:layout_alignLeft="@+id/btnGrn"
-        android:layout_alignStart="@+id/btnGrn" />
+        android:layout_alignStart="@+id/btnGrn"
+        android:layout_below="@+id/btnBle" />
 
     <Button
         android:text="Magenta"
@@ -56,7 +56,7 @@
         android:layout_height="wrap_content"
         android:background="#de0f0f"
         android:layout_marginTop="41dp"
-        android:layout_marginLeft="@dimen/mar"
+        android:layout_marginLeft="@dimen/mad"
         android:id="@+id/btnRed"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
@@ -82,9 +82,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="#32ff02"
-        android:layout_marginTop="15dp"
-        android:layout_marginBottom="@dimen/mad"
-        android:layout_marginLeft="@dimen/mar"
+        android:layout_marginTop="16dp"
         android:id="@+id/btnGrn"
         android:layout_below="@+id/btnRed"
         android:layout_centerHorizontal="true" />
