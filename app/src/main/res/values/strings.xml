@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Layout</string>
+    <string name="Click_Me">Button</string>
+    <string name="button" >btn124</string>
+
+
 </resources>
