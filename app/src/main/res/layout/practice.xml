@@ -71,6 +71,7 @@
         android:layout_marginEnd="12dp"
         android:layout_marginTop="37dp"
         android:layout_marginBottom="@dimen/mad"
+        android:layout_marginLeft="@dimen/mad"
         android:id="@+id/btnBle"
         android:layout_alignTop="@+id/btnGrn"
         android:layout_alignParentRight="true"
